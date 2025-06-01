@@ -23,9 +23,9 @@
 
 #### Develop a state-of-the-art water management system that adheres to BIS standards to improve irrigation efficiency, adapt to environmental changes, and integrate advanced technology.
 #### Aims to implement a comprehensive water management system that achieves the following objectives.
-#### Optimized Irrigation Practices
-#### Adaptability to Environmental Variability:Managing varying soil types, terrain conditions, and erratic water availability.
-#### Integration of Technology
+ Optimized Irrigation Practices
+ Adaptability to Environmental Variability:Managing varying soil types, terrain conditions, and erratic water availability.
+ Integration of Technology
 
 <details>
 <summary><h2> Components</h2> </summary>
@@ -40,4 +40,34 @@ Weather Sensors(DHT22) :Weather sensors play a crucial role in optimizing water 
 ### Sustainable Power Supply
 Solar pannels :The system uses solar panels to generate electricity and power a submersible pump that pumps water from a bore well to a storage tank. 
 Battery backup:During fault weather conditions when solar pannels also doesn’t support.
+
+
+<details>
+<summary><h2>BIS Standards </h2> </summary>
+<br>
+
+IS 10804 :1986 -Recommended pumping system for agriculture purpose.
+IS 11810:1986 –Guidline to establish a value engineering activity(precise moisture management ,increase the functionality and quality)
+IS 7722:1975 – Analog pneumatic signal for process control system.(automatic valves controller , mainly concentrate on pressure and flow of the water)
+IS 13703:2018 – Controllers for centralized management of irrigation schedule.
+IS 8985:1978 – Recommended for weather monitoring system.
+
+
+<details>
+<summary><h2>Expected Benifits </h2> </summary>
+<br>
+  
+Optimized Irrigation Practices
+Water efficiency
+Improved soil health
+
+<details>
+<summary><h2>Conclusion </h2> </summary>
+<br>
+
+Hence ,by using advanced integrated  technology (interfacing various sensors and actuators) an effective method for water management system is developed for diversed range of crops by eliminating the problems faced by traditional irrigation method.
+
+Utilising the BIS Standards the components will get the standardization ,certification and quality which inturn gives better life time usage of the components.
+
+
 
