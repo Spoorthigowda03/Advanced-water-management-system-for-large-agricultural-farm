@@ -23,9 +23,9 @@
 
 #### Develop a state-of-the-art water management system that adheres to BIS standards to improve irrigation efficiency, adapt to environmental changes, and integrate advanced technology.
 #### Aims to implement a comprehensive water management system that achieves the following objectives.
- Optimized Irrigation Practices
- Adaptability to Environmental Variability:Managing varying soil types, terrain conditions, and erratic water availability.
- Integration of Technology
+#### Optimized Irrigation Practices
+#### Adaptability to Environmental Variability:Managing varying soil types, terrain conditions, and erratic water availability.
+#### Integration of Technology
 
 <details>
 <summary><h2> Components</h2> </summary>
@@ -33,33 +33,33 @@
 
 
 ### Sensors and Devices
-Soil Moisture Sensors :Measure the amount of water present in the soil, providing valuable data for optimizing irrigation and understanding soil conditions.
-Water Level Indicators :Provide a practical solution for farmers to monitor water levels accurately and efficiently.
-Weather Sensors(DHT22) :Weather sensors play a crucial role in optimizing water use, improving crop yields, and ensuring sustainability
+#### Soil Moisture Sensors :Measure the amount of water present in the soil, providing valuable data for optimizing irrigation and understanding soil conditions.
+#### Water Level Indicators :Provide a practical solution for farmers to monitor water levels accurately and efficiently.
+#### Weather Sensors(DHT22) :Weather sensors play a crucial role in optimizing water use, improving crop yields, and ensuring sustainability
 
 ### Sustainable Power Supply
-Solar pannels :The system uses solar panels to generate electricity and power a submersible pump that pumps water from a bore well to a storage tank. 
-Battery backup:During fault weather conditions when solar pannels also doesn’t support.
+#### Solar pannels :The system uses solar panels to generate electricity and power a submersible pump that pumps water from a bore well to a storage tank. 
+#### Battery backup:During fault weather conditions when solar pannels also doesn’t support.
 
 
 <details>
 <summary><h2>BIS Standards </h2> </summary>
 <br>
 
-IS 10804 :1986 -Recommended pumping system for agriculture purpose.
-IS 11810:1986 –Guidline to establish a value engineering activity(precise moisture management ,increase the functionality and quality)
-IS 7722:1975 – Analog pneumatic signal for process control system.(automatic valves controller , mainly concentrate on pressure and flow of the water)
-IS 13703:2018 – Controllers for centralized management of irrigation schedule.
-IS 8985:1978 – Recommended for weather monitoring system.
+#### IS 10804 :1986 -Recommended pumping system for agriculture purpose.
+#### IS 11810:1986 –Guidline to establish a value engineering activity(precise moisture management ,increase the functionality and quality)
+#### IS 7722:1975 – Analog pneumatic signal for process control system.(automatic valves controller , mainly concentrate on pressure and flow of the water)
+#### IS 13703:2018 – Controllers for centralized management of irrigation schedule.
+#### IS 8985:1978 – Recommended for weather monitoring system.
 
 
 <details>
 <summary><h2>Expected Benifits </h2> </summary>
 <br>
   
-Optimized Irrigation Practices
-Water efficiency
-Improved soil health
+#### Optimized Irrigation Practices
+#### Water efficiency
+#### Improved soil health
 
 <details>
 <summary><h2>Conclusion </h2> </summary>
