@@ -1,4 +1,4 @@
-# Advanced water management system for large agricultural farm 
+# Advanced Water Management System for Large Agricultural Farm 
 <details>
 <summary><h2> Abstract </h2> </summary>
 <br>
