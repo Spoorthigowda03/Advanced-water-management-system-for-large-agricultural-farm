@@ -8,5 +8,10 @@
 <details>
 <summary><h2> Block Diagram </h2> </summary>
 <br>
+
+  
+<details>
+<summary><h2> circuit Diagram </h2> </summary>
+<br>
   
 ![Image](https://github.com/user-attachments/assets/f5f4c9c9-d449-42c8-a51b-8247fbffec52)
